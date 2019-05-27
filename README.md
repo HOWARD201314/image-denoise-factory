@@ -1,4 +1,5 @@
-# reproducible-image-denoising-state-of-the-art
+# this work first forking from https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art, and making some update!
+
 Collection of popular and reproducible image denoising works.
 
 Criteria: works must have codes available, and the reproducible results demonstrate state-of-the-art performances.
